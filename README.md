@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wilugkaykay
+- 👋 Hi, I’m ikenna Wilson 
 - 👀 I’m interested in block chain programming.
 - 🌱 I’m currently learning block chain developement.
 - 💞️ I’m looking to collaborate on blockchain development projects
